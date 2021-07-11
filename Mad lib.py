@@ -1,0 +1,10 @@
+noun1 = input("Plural Noun:")
+noun2 = input("Plural Noun:")
+noun3 = input("Proper Noun:")
+noun4 = input("Proper Noun:")
+adjective1 = input("Adjective:")
+adjective2 = input("Adjective:")
+
+print(noun1 + " are " + adjective1 + ",")
+print(noun2 + " are " + adjective2 + ",")
+print(noun3 + " loves " + noun4)
